@@ -1,0 +1,13 @@
+lib/
+ ├── main.dart
+ ├── router.dart
+ ├── screens/
+ │    ├── login_screen.dart
+ │    ├── home_screen.dart
+ ├── services/
+ │    ├── auth_service.dart
+ │    ├── storage_service.dart
+ ├── db/
+ │    ├── database_helper.dart
+ ├── models/
+ │    ├── user_model.dart

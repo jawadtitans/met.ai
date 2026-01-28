@@ -1,0 +1,202 @@
+[
+  {
+    "question": "How active are you today?",
+    "subtitle": "Choose the option that best aligns with you",
+    "answers": [
+      {"type": "text", "title": "Not Active"},
+      {"type": "text", "title": "Lightly Active", "subtitle": "1-3 times per week"},
+      {"type": "text", "title": "Moderately Active", "avatar": "assets/images/avatar1.png"}
+
+    ]
+  },
+  {
+    "question": "How much water do you drink daily?",
+    "subtitle": "Estimate your average intake",
+    "answers": [
+      {"type": "text", "title": "< 1L"},
+      {"type": "text", "title": "1-2L"},
+      {"type": "text_subtitle", "title": "2-3L", "subtitle": "Recommended"},
+      {"type": "text", "title": ">3L"}
+    ]
+  },
+  {
+    "question": "How often do you exercise?",
+    "subtitle": "Weekly frequency",
+    "answers": [
+      {"type": "text", "title": "Never"},
+      {"type": "text", "title": "1-2 times"},
+      {"type": "text_subtitle", "title": "3-4 times", "subtitle": "Ideal for health"},
+      {"type": "icon_text", "title": "Daily", "icon": "fitness_center"}
+    ]
+  },
+  {
+    "question": "How balanced is your diet?",
+    "subtitle": "Rate your nutrition",
+    "answers": [
+      {"type": "text", "title": "Poor"},
+      {"type": "text_subtitle", "title": "Average", "subtitle": "Sometimes healthy"},
+      {"type": "avatar_text", "title": "Good", "avatar": "assets/images/avatar2.png"},
+      {"type": "icon_text", "title": "Excellent", "icon": "emoji_events"}
+    ]
+  },
+  {
+    "question": "How many hours do you sleep daily?",
+    "subtitle": "Average sleep duration",
+    "answers": [
+      {"type": "text", "title": "< 5h"},
+      {"type": "text", "title": "5-6h"},
+      {"type": "text_subtitle", "title": "7-8h", "subtitle": "Recommended"},
+      {"type": "text", "title": ">8h"}
+    ]
+  },
+  {
+    "question": "How often do you meditate?",
+    "subtitle": "Mindfulness practices",
+    "answers": [
+      {"type": "text", "title": "Never"},
+      {"type": "text", "title": "Once a week"},
+      {"type": "text_subtitle", "title": "2-3 times a week", "subtitle": "Helpful for focus"},
+      {"type": "icon_text", "title": "Daily", "icon": "spa"}
+    ]
+  },
+  {
+    "question": "How often do you eat fruits?",
+    "subtitle": "Daily fruit intake",
+    "answers": [
+      {"type": "text", "title": "Never"},
+      {"type": "text", "title": "1-2 servings"},
+      {"type": "text_subtitle", "title": "3-4 servings", "subtitle": "Recommended"},
+      {"type": "text", "title": ">4 servings"}
+    ]
+  },
+  {
+    "question": "How often do you eat vegetables?",
+    "subtitle": "Daily vegetable intake",
+    "answers": [
+      {"type": "text", "title": "Rarely"},
+      {"type": "text", "title": "1-2 servings"},
+      {"type": "text_subtitle", "title": "3-5 servings", "subtitle": "Healthy"},
+      {"type": "text", "title": "More than 5 servings"}
+    ]
+  },
+  {
+    "question": "How often do you feel stressed?",
+    "subtitle": "Stress levels",
+    "answers": [
+      {"type": "text", "title": "Never"},
+      {"type": "text", "title": "Sometimes"},
+      {"type": "text_subtitle", "title": "Often", "subtitle": "Needs attention"},
+      {"type": "icon_text", "title": "Always", "icon": "warning"}
+    ]
+  },
+  {
+    "question": "How often do you consume junk food?",
+    "subtitle": "Unhealthy eating habits",
+    "answers": [
+      {"type": "text", "title": "Never"},
+      {"type": "text", "title": "Once a week"},
+      {"type": "text_subtitle", "title": "2-3 times a week", "subtitle": "Moderation advised"},
+      {"type": "text", "title": "Daily"}
+    ]
+  },
+  {
+    "question": "How often do you go outdoors?",
+    "subtitle": "Outdoor activity",
+    "answers": [
+      {"type": "text", "title": "Rarely"},
+      {"type": "text", "title": "Few times a week"},
+      {"type": "text_subtitle", "title": "Everyday", "subtitle": "Healthy habit"},
+      {"type": "icon_text", "title": "Multiple times daily", "icon": "wb_sunny"}
+    ]
+  },
+  {
+    "question": "How often do you read books?",
+    "subtitle": "Reading habit",
+    "answers": [
+      {"type": "text", "title": "Never"},
+      {"type": "text", "title": "Occasionally"},
+      {"type": "text_subtitle", "title": "Regularly", "subtitle": "Recommended"},
+      {"type": "icon_text", "title": "Daily", "icon": "menu_book"}
+    ]
+  },
+  {
+    "question": "How often do you socialize?",
+    "subtitle": "Social interactions",
+    "answers": [
+      {"type": "text", "title": "Rarely"},
+      {"type": "text", "title": "Sometimes"},
+      {"type": "text_subtitle", "title": "Often", "subtitle": "Healthy for mental health"},
+      {"type": "icon_text", "title": "Daily", "icon": "groups"}
+    ]
+  },
+  {
+    "question": "How often do you check your phone?",
+    "subtitle": "Screen time habits",
+    "answers": [
+      {"type": "text", "title": "Rarely"},
+      {"type": "text", "title": "1-2 hours/day"},
+      {"type": "text_subtitle", "title": "3-4 hours/day", "subtitle": "Moderate usage"},
+      {"type": "icon_text", "title": ">5 hours/day", "icon": "smartphone"}
+    ]
+  },
+  {
+    "question": "How often do you travel?",
+    "subtitle": "Travel frequency",
+    "answers": [
+      {"type": "text", "title": "Never"},
+      {"type": "text", "title": "1-2 times/year"},
+      {"type": "text_subtitle", "title": "3-5 times/year", "subtitle": "Recommended for experience"},
+      {"type": "icon_text", "title": "Often", "icon": "flight"}
+    ]
+  },
+  {
+    "question": "How often do you engage in hobbies?",
+    "subtitle": "Personal interests",
+    "answers": [
+      {"type": "text", "title": "Never"},
+      {"type": "text", "title": "Sometimes"},
+      {"type": "text_subtitle", "title": "Often", "subtitle": "Good for mental health"},
+      {"type": "icon_text", "title": "Daily", "icon": "palette"}
+    ]
+  },
+  {
+    "question": "How often do you eat breakfast?",
+    "subtitle": "Morning meal habits",
+    "answers": [
+      {"type": "text", "title": "Never"},
+      {"type": "text", "title": "Occasionally"},
+      {"type": "text_subtitle", "title": "Most days", "subtitle": "Recommended"},
+      {"type": "icon_text", "title": "Daily", "icon": "free_breakfast"}
+    ]
+  },
+  {
+    "question": "How often do you use supplements?",
+    "subtitle": "Vitamins and minerals",
+    "answers": [
+      {"type": "text", "title": "Never"},
+      {"type": "text", "title": "Occasionally"},
+      {"type": "text_subtitle", "title": "Regularly", "subtitle": "Recommended if needed"},
+      {"type": "icon_text", "title": "Daily", "icon": "healing"}
+    ]
+  },
+  {
+    "question": "How often do you monitor your health?",
+    "subtitle": "Health check habits",
+    "answers": [
+      {"type": "text", "title": "Never"},
+      {"type": "text", "title": "Rarely"},
+      {"type": "text_subtitle", "title": "Occasionally", "subtitle": "Recommended"},
+      {"type": "icon_text", "title": "Regularly", "icon": "medical_services"}
+    ]
+  },
+  {
+    "question": "How satisfied are you with your lifestyle?",
+    "subtitle": "Overall satisfaction",
+    "answers": [
+      {"type": "text", "title": "Not satisfied"},
+      {"type": "text", "title": "Somewhat satisfied"},
+      {"type": "text_subtitle", "title": "Satisfied", "subtitle": "Mostly happy"},
+      {"type": "icon_text", "title": "Very satisfied", "icon": "sentiment_satisfied"}
+    ]
+  }
+]
